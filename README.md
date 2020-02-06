@@ -9,6 +9,7 @@ What I learned: How to make many different sizes in one part by just adding the 
 Struggles: I struggled to make the design table and figure out how to add the dimensions because I hept clicking on the part and it would bring me to the icloud mail
 
 ![design table gif](https://github.com/vcraghe32/CAD_assignments/raw/master/ImagesCAD/spoolgif.gif)
+
 Credit: Violet C-W
 
 ## Advanced and Mechanical mates
