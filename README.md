@@ -15,7 +15,7 @@ Credit: Violet C-W
 ## Advanced and Mechanical mates
 What it made: Three boxes and a pin assembled so that when you slid the pin, the boxes follow it in or out
 
-What I learned: How to make each size of a part a different color, how to mate the pin so that the opther boxes would follow it, and how to add each size of a part to an assembly
+What I learned: How to make each size of a part a different color, how to mate the pin so that the other boxes would follow it, and how to add each size of a part to an assembly
 
 Struggles: It was hard to make each size a different color, and at first I assembled it wrong
 
